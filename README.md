@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1927-maximum-ascending-subarray-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/prakantsharma/leetcode_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
