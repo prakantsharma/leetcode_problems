@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/prakantsharma/leetcode_problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prakantsharma/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -92,13 +93,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Enumeration
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Design
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
