@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/prakantsharma/leetcode_problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/prakantsharma/leetcode_problems/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/prakantsharma/leetcode_problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/prakantsharma/leetcode_problems/tree/master/2727-number-of-senior-citizens) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/prakantsharma/leetcode_problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -129,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
