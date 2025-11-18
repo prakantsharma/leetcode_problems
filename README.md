@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0135-candy](https://github.com/prakantsharma/leetcode_problems/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/prakantsharma/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/prakantsharma/leetcode_problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prakantsharma/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prakantsharma/leetcode_problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prakantsharma/leetcode_problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
