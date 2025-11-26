@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/prakantsharma/leetcode_problems/tree/master/2169-simple-bank-system) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prakantsharma/leetcode_problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/prakantsharma/leetcode_problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/prakantsharma/leetcode_problems/tree/master/2625-increment-submatrices-by-one) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/prakantsharma/leetcode_problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prakantsharma/leetcode_problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prakantsharma/leetcode_problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/prakantsharma/leetcode_problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prakantsharma/leetcode_problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -267,5 +269,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prakantsharma/leetcode_problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/prakantsharma/leetcode_problems/tree/master/2625-increment-submatrices-by-one) |
 <!---LeetCode Topics End-->
