@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/prakantsharma/leetcode_problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3429-special-array-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prakantsharma/leetcode_problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prakantsharma/leetcode_problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/prakantsharma/leetcode_problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/prakantsharma/leetcode_problems/tree/master/3582-find-indices-of-stable-mountains) |
 | [3583-count-special-triplets](https://github.com/prakantsharma/leetcode_problems/tree/master/3583-count-special-triplets) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/prakantsharma/leetcode_problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/prakantsharma/leetcode_problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prakantsharma/leetcode_problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/prakantsharma/leetcode_problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/prakantsharma/leetcode_problems/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prakantsharma/leetcode_problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
@@ -286,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3623-count-number-of-trapezoids-i) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prakantsharma/leetcode_problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
