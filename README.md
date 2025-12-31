@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prakantsharma/leetcode_problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/prakantsharma/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prakantsharma/leetcode_problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/prakantsharma/leetcode_problems/tree/master/2169-simple-bank-system) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prakantsharma/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prakantsharma/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/prakantsharma/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/prakantsharma/leetcode_problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -216,12 +218,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/prakantsharma/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3863-power-grid-maintenance](https://github.com/prakantsharma/leetcode_problems/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/prakantsharma/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3863-power-grid-maintenance](https://github.com/prakantsharma/leetcode_problems/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
 |  |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/prakantsharma/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3863-power-grid-maintenance](https://github.com/prakantsharma/leetcode_problems/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
@@ -319,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/prakantsharma/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prakantsharma/leetcode_problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/prakantsharma/leetcode_problems/tree/master/2625-increment-submatrices-by-one) |
 ## Geometry
