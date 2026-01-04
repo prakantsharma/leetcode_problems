@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prakantsharma/leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/prakantsharma/leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/prakantsharma/leetcode_problems/tree/master/1390-four-divisors) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prakantsharma/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prakantsharma/leetcode_problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prakantsharma/leetcode_problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prakantsharma/leetcode_problems/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/prakantsharma/leetcode_problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1390-four-divisors](https://github.com/prakantsharma/leetcode_problems/tree/master/1390-four-divisors) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/prakantsharma/leetcode_problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/prakantsharma/leetcode_problems/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prakantsharma/leetcode_problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
