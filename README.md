@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/prakantsharma/leetcode_problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prakantsharma/leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/prakantsharma/leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/prakantsharma/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/prakantsharma/leetcode_problems/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/prakantsharma/leetcode_problems/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prakantsharma/leetcode_problems/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/prakantsharma/leetcode_problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/prakantsharma/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/prakantsharma/leetcode_problems/tree/master/1390-four-divisors) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/prakantsharma/leetcode_problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/prakantsharma/leetcode_problems/tree/master/1925-count-square-sum-triples) |
