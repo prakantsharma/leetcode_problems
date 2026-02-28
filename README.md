@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prakantsharma/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0409-longest-palindrome](https://github.com/prakantsharma/leetcode_problems/tree/master/0409-longest-palindrome) |
 | [0696-count-binary-substrings](https://github.com/prakantsharma/leetcode_problems/tree/master/0696-count-binary-substrings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/prakantsharma/leetcode_problems/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prakantsharma/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/prakantsharma/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prakantsharma/leetcode_problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
