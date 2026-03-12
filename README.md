@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/prakantsharma/leetcode_problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3453-separate-squares-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3454-separate-squares-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/prakantsharma/leetcode_problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prakantsharma/leetcode_problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/prakantsharma/leetcode_problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/prakantsharma/leetcode_problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -474,4 +476,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/prakantsharma/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prakantsharma/leetcode_problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/prakantsharma/leetcode_problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/prakantsharma/leetcode_problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/prakantsharma/leetcode_problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
