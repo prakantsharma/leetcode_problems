@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/prakantsharma/leetcode_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/prakantsharma/leetcode_problems/tree/master/2727-number-of-senior-citizens) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/prakantsharma/leetcode_problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2906-construct-product-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/prakantsharma/leetcode_problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prakantsharma/leetcode_problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/prakantsharma/leetcode_problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/prakantsharma/leetcode_problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/prakantsharma/leetcode_problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/prakantsharma/leetcode_problems/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/prakantsharma/leetcode_problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prakantsharma/leetcode_problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/prakantsharma/leetcode_problems/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/prakantsharma/leetcode_problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/prakantsharma/leetcode_problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/prakantsharma/leetcode_problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
