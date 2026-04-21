@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prakantsharma/leetcode_problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prakantsharma/leetcode_problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prakantsharma/leetcode_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prakantsharma/leetcode_problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/prakantsharma/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3863-power-grid-maintenance](https://github.com/prakantsharma/leetcode_problems/tree/master/3863-power-grid-maintenance) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/prakantsharma/leetcode_problems/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/prakantsharma/leetcode_problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
