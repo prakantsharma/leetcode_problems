@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/prakantsharma/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/prakantsharma/leetcode_problems/tree/master/1980-find-unique-binary-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prakantsharma/leetcode_problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/prakantsharma/leetcode_problems/tree/master/2169-simple-bank-system) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/prakantsharma/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/prakantsharma/leetcode_problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/prakantsharma/leetcode_problems/tree/master/1925-count-square-sum-triples) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prakantsharma/leetcode_problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/prakantsharma/leetcode_problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/prakantsharma/leetcode_problems/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prakantsharma/leetcode_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prakantsharma/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prakantsharma/leetcode_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prakantsharma/leetcode_problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/prakantsharma/leetcode_problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/prakantsharma/leetcode_problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/prakantsharma/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prakantsharma/leetcode_problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2573-find-the-string-with-lcp](https://github.com/prakantsharma/leetcode_problems/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/prakantsharma/leetcode_problems/tree/master/2625-increment-submatrices-by-one) |
