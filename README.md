@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/prakantsharma/leetcode_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/prakantsharma/leetcode_problems/tree/master/2727-number-of-senior-citizens) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/prakantsharma/leetcode_problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/prakantsharma/leetcode_problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2906-construct-product-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prakantsharma/leetcode_problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/prakantsharma/leetcode_problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/prakantsharma/leetcode_problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prakantsharma/leetcode_problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2573-find-the-string-with-lcp](https://github.com/prakantsharma/leetcode_problems/tree/master/2573-find-the-string-with-lcp) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/prakantsharma/leetcode_problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/3225-maximum-score-from-grid-operations) |
