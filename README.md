@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prakantsharma/leetcode_problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/prakantsharma/leetcode_problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prakantsharma/leetcode_problems/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3161-block-placement-queries](https://github.com/prakantsharma/leetcode_problems/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/prakantsharma/leetcode_problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/prakantsharma/leetcode_problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/prakantsharma/leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/prakantsharma/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/prakantsharma/leetcode_problems/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3161-block-placement-queries](https://github.com/prakantsharma/leetcode_problems/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/prakantsharma/leetcode_problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3454-separate-squares-ii) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/prakantsharma/leetcode_problems/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/prakantsharma/leetcode_problems/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3721-longest-balanced-subarray-ii) |
@@ -622,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/prakantsharma/leetcode_problems/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/prakantsharma/leetcode_problems/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
