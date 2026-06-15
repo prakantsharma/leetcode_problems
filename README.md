@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prakantsharma/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/prakantsharma/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/prakantsharma/leetcode_problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/prakantsharma/leetcode_problems/tree/master/0018-4sum) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prakantsharma/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/prakantsharma/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/prakantsharma/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/prakantsharma/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prakantsharma/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0085-maximal-rectangle](https://github.com/prakantsharma/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/prakantsharma/leetcode_problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/prakantsharma/leetcode_problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
