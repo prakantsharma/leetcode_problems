@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/prakantsharma/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/prakantsharma/leetcode_problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/prakantsharma/leetcode_problems/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/prakantsharma/leetcode_problems/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/prakantsharma/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/prakantsharma/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prakantsharma/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/prakantsharma/leetcode_problems/tree/master/0010-regular-expression-matching) |
 | [0085-maximal-rectangle](https://github.com/prakantsharma/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/prakantsharma/leetcode_problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/prakantsharma/leetcode_problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prakantsharma/leetcode_problems/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/prakantsharma/leetcode_problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/prakantsharma/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prakantsharma/leetcode_problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Union-Find
