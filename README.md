@@ -542,12 +542,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/prakantsharma/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prakantsharma/leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/prakantsharma/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/prakantsharma/leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/prakantsharma/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prakantsharma/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prakantsharma/leetcode_problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prakantsharma/leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/prakantsharma/leetcode_problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prakantsharma/leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/prakantsharma/leetcode_problems/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3721-longest-balanced-subarray-ii) |
@@ -666,4 +669,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/prakantsharma/leetcode_problems/tree/master/3161-block-placement-queries) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prakantsharma/leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
