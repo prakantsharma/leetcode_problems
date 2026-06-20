@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prakantsharma/leetcode_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/prakantsharma/leetcode_problems/tree/master/1732-find-the-highest-altitude) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1840-maximum-building-height](https://github.com/prakantsharma/leetcode_problems/tree/master/1840-maximum-building-height) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prakantsharma/leetcode_problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/prakantsharma/leetcode_problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/1914-cyclically-rotating-a-grid) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/prakantsharma/leetcode_problems/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/prakantsharma/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/prakantsharma/leetcode_problems/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1840-maximum-building-height](https://github.com/prakantsharma/leetcode_problems/tree/master/1840-maximum-building-height) |
 | [1925-count-square-sum-triples](https://github.com/prakantsharma/leetcode_problems/tree/master/1925-count-square-sum-triples) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prakantsharma/leetcode_problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prakantsharma/leetcode_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prakantsharma/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prakantsharma/leetcode_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1840-maximum-building-height](https://github.com/prakantsharma/leetcode_problems/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/prakantsharma/leetcode_problems/tree/master/2126-destroying-asteroids) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
