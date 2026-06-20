@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/prakantsharma/leetcode_problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/prakantsharma/leetcode_problems/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prakantsharma/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/prakantsharma/leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/prakantsharma/leetcode_problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/prakantsharma/leetcode_problems/tree/master/0078-subsets) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/prakantsharma/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prakantsharma/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prakantsharma/leetcode_problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/prakantsharma/leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/prakantsharma/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prakantsharma/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0205-isomorphic-strings) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/prakantsharma/leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/prakantsharma/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
