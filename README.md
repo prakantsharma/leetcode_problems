@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/prakantsharma/leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/prakantsharma/leetcode_problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/prakantsharma/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0205-isomorphic-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/prakantsharma/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/prakantsharma/leetcode_problems/tree/master/0409-longest-palindrome) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prakantsharma/leetcode_problems/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/prakantsharma/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/prakantsharma/leetcode_problems/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/prakantsharma/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/prakantsharma/leetcode_problems/tree/master/0409-longest-palindrome) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/prakantsharma/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/prakantsharma/leetcode_problems/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/prakantsharma/leetcode_problems/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/prakantsharma/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/prakantsharma/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/prakantsharma/leetcode_problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/prakantsharma/leetcode_problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/prakantsharma/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/prakantsharma/leetcode_problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/prakantsharma/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/prakantsharma/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prakantsharma/leetcode_problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Union-Find
 |  |
