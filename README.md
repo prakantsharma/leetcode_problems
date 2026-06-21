@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/prakantsharma/leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/prakantsharma/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/prakantsharma/leetcode_problems/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/prakantsharma/leetcode_problems/tree/master/0066-plus-one) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prakantsharma/leetcode_problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prakantsharma/leetcode_problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/prakantsharma/leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/prakantsharma/leetcode_problems/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/prakantsharma/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/prakantsharma/leetcode_problems/tree/master/0409-longest-palindrome) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/prakantsharma/leetcode_problems/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/prakantsharma/leetcode_problems/tree/master/0874-walking-robot-simulation) |
