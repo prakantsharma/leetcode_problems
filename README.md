@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/prakantsharma/leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/prakantsharma/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/prakantsharma/leetcode_problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/prakantsharma/leetcode_problems/tree/master/0078-subsets) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prakantsharma/leetcode_problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/prakantsharma/leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/prakantsharma/leetcode_problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/prakantsharma/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/prakantsharma/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prakantsharma/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0205-isomorphic-strings) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/prakantsharma/leetcode_problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/prakantsharma/leetcode_problems/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/prakantsharma/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/prakantsharma/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/prakantsharma/leetcode_problems/tree/master/0409-longest-palindrome) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/prakantsharma/leetcode_problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/prakantsharma/leetcode_problems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/prakantsharma/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0759-set-intersection-size-at-least-two](https://github.com/prakantsharma/leetcode_problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prakantsharma/leetcode_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prakantsharma/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
