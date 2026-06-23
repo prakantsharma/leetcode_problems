@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prakantsharma/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0047-permutations-ii) |
+| [0052-n-queens-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/prakantsharma/leetcode_problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/prakantsharma/leetcode_problems/tree/master/0401-binary-watch) |
