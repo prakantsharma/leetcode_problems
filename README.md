@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0334-increasing-triplet-subsequence](https://github.com/prakantsharma/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prakantsharma/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/prakantsharma/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/prakantsharma/leetcode_problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/prakantsharma/leetcode_problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/prakantsharma/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/prakantsharma/leetcode_problems/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prakantsharma/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/prakantsharma/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0840-magic-squares-in-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prakantsharma/leetcode_problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/prakantsharma/leetcode_problems/tree/master/0874-walking-robot-simulation) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/prakantsharma/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/prakantsharma/leetcode_problems/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/prakantsharma/leetcode_problems/tree/master/1871-jump-game-vii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/prakantsharma/leetcode_problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
