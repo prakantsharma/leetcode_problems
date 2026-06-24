@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/prakantsharma/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/prakantsharma/leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/prakantsharma/leetcode_problems/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/prakantsharma/leetcode_problems/tree/master/0066-plus-one) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prakantsharma/leetcode_problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/prakantsharma/leetcode_problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/prakantsharma/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/prakantsharma/leetcode_problems/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/prakantsharma/leetcode_problems/tree/master/0060-permutation-sequence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prakantsharma/leetcode_problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Union-Find
 |  |
