@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/prakantsharma/leetcode_problems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/prakantsharma/leetcode_problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/prakantsharma/leetcode_problems/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/prakantsharma/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prakantsharma/leetcode_problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/prakantsharma/leetcode_problems/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/prakantsharma/leetcode_problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/prakantsharma/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/prakantsharma/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/prakantsharma/leetcode_problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/prakantsharma/leetcode_problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prakantsharma/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/prakantsharma/leetcode_problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Matrix
 |  |
