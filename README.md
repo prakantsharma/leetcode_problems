@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/prakantsharma/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/prakantsharma/leetcode_problems/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/prakantsharma/leetcode_problems/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/prakantsharma/leetcode_problems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/prakantsharma/leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/prakantsharma/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0205-isomorphic-strings) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/prakantsharma/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prakantsharma/leetcode_problems/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/prakantsharma/leetcode_problems/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/prakantsharma/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prakantsharma/leetcode_problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
