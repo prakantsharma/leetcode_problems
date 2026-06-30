@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/prakantsharma/leetcode_problems/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/prakantsharma/leetcode_problems/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/prakantsharma/leetcode_problems/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/prakantsharma/leetcode_problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/prakantsharma/leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/prakantsharma/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0205-isomorphic-strings) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/prakantsharma/leetcode_problems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/prakantsharma/leetcode_problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/prakantsharma/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/prakantsharma/leetcode_problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/prakantsharma/leetcode_problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
