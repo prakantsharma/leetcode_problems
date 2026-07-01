@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/prakantsharma/leetcode_problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/prakantsharma/leetcode_problems/tree/master/0874-walking-robot-simulation) |
+| [0918-maximum-sum-circular-subarray](https://github.com/prakantsharma/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0944-delete-columns-to-make-sorted](https://github.com/prakantsharma/leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/prakantsharma/leetcode_problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/prakantsharma/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/prakantsharma/leetcode_problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/prakantsharma/leetcode_problems/tree/master/0085-maximal-rectangle) |
+| [0918-maximum-sum-circular-subarray](https://github.com/prakantsharma/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/prakantsharma/leetcode_problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/prakantsharma/leetcode_problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/prakantsharma/leetcode_problems/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/prakantsharma/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/prakantsharma/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/prakantsharma/leetcode_problems/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Memoization
 |  |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/prakantsharma/leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/prakantsharma/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/prakantsharma/leetcode_problems/tree/master/0190-reverse-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/prakantsharma/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -796,4 +800,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/prakantsharma/leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/prakantsharma/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
