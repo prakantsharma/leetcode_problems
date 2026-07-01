@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/prakantsharma/leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/prakantsharma/leetcode_problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/prakantsharma/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/prakantsharma/leetcode_problems/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0059-spiral-matrix-ii) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/prakantsharma/leetcode_problems/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/prakantsharma/leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/prakantsharma/leetcode_problems/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/prakantsharma/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/prakantsharma/leetcode_problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/prakantsharma/leetcode_problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0063-unique-paths-ii) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prakantsharma/leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/prakantsharma/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/prakantsharma/leetcode_problems/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3721-longest-balanced-subarray-ii) |
