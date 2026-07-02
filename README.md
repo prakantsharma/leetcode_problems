@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/prakantsharma/leetcode_problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/prakantsharma/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/prakantsharma/leetcode_problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/prakantsharma/leetcode_problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/prakantsharma/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0090-subsets-ii) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/prakantsharma/leetcode_problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/prakantsharma/leetcode_problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/prakantsharma/leetcode_problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/prakantsharma/leetcode_problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/prakantsharma/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/prakantsharma/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/prakantsharma/leetcode_problems/tree/master/0079-word-search) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prakantsharma/leetcode_problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prakantsharma/leetcode_problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/prakantsharma/leetcode_problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/prakantsharma/leetcode_problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/prakantsharma/leetcode_problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/prakantsharma/leetcode_problems/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prakantsharma/leetcode_problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -701,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/prakantsharma/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/prakantsharma/leetcode_problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/prakantsharma/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
