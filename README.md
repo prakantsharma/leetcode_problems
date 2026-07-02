@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/prakantsharma/leetcode_problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/prakantsharma/leetcode_problems/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/prakantsharma/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/prakantsharma/leetcode_problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/prakantsharma/leetcode_problems/tree/master/0085-maximal-rectangle) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/prakantsharma/leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/prakantsharma/leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/prakantsharma/leetcode_problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/prakantsharma/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/prakantsharma/leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/prakantsharma/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prakantsharma/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/prakantsharma/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/prakantsharma/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
