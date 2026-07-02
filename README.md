@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/prakantsharma/leetcode_problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/prakantsharma/leetcode_problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/prakantsharma/leetcode_problems/tree/master/0401-binary-watch) |
