@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/prakantsharma/leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/prakantsharma/leetcode_problems/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/prakantsharma/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/prakantsharma/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/prakantsharma/leetcode_problems/tree/master/0053-maximum-subarray) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/prakantsharma/leetcode_problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prakantsharma/leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prakantsharma/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/prakantsharma/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/prakantsharma/leetcode_problems/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/prakantsharma/leetcode_problems/tree/master/0125-valid-palindrome) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/prakantsharma/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/prakantsharma/leetcode_problems/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/prakantsharma/leetcode_problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/prakantsharma/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/prakantsharma/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/prakantsharma/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/prakantsharma/leetcode_problems/tree/master/0055-jump-game) |
@@ -643,12 +646,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/prakantsharma/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prakantsharma/leetcode_problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/prakantsharma/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/prakantsharma/leetcode_problems/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/prakantsharma/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prakantsharma/leetcode_problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prakantsharma/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/prakantsharma/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prakantsharma/leetcode_problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Linked List
