@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/prakantsharma/leetcode_problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/prakantsharma/leetcode_problems/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/prakantsharma/leetcode_problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Prefix Sum
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/prakantsharma/leetcode_problems/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3714-longest-balanced-substring-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
 |  |
