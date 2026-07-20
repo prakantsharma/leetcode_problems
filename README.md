@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/prakantsharma/leetcode_problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prakantsharma/leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/prakantsharma/leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1260-shift-2d-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/prakantsharma/leetcode_problems/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prakantsharma/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/prakantsharma/leetcode_problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/prakantsharma/leetcode_problems/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/prakantsharma/leetcode_problems/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/prakantsharma/leetcode_problems/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/prakantsharma/leetcode_problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prakantsharma/leetcode_problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/prakantsharma/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/prakantsharma/leetcode_problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/prakantsharma/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
+| [1260-shift-2d-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/prakantsharma/leetcode_problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
