@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/prakantsharma/leetcode_problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prakantsharma/leetcode_problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3531-count-covered-buildings](https://github.com/prakantsharma/leetcode_problems/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/prakantsharma/leetcode_problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/prakantsharma/leetcode_problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3606-coupon-code-validator](https://github.com/prakantsharma/leetcode_problems/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3714-longest-balanced-substring-ii) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/prakantsharma/leetcode_problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/prakantsharma/leetcode_problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -810,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/prakantsharma/leetcode_problems/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/prakantsharma/leetcode_problems/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3454-separate-squares-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
