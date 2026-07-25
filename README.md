@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/prakantsharma/leetcode_problems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/prakantsharma/leetcode_problems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/prakantsharma/leetcode_problems/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/prakantsharma/leetcode_problems/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/prakantsharma/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/prakantsharma/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/prakantsharma/leetcode_problems/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/prakantsharma/leetcode_problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/prakantsharma/leetcode_problems/tree/master/0093-restore-ip-addresses) |
 | [0401-binary-watch](https://github.com/prakantsharma/leetcode_problems/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prakantsharma/leetcode_problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/prakantsharma/leetcode_problems/tree/master/1980-find-unique-binary-string) |
