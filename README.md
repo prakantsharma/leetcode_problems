@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prakantsharma/leetcode_problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/prakantsharma/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/prakantsharma/leetcode_problems/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/prakantsharma/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/prakantsharma/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prakantsharma/leetcode_problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prakantsharma/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/prakantsharma/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prakantsharma/leetcode_problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prakantsharma/leetcode_problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prakantsharma/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/prakantsharma/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prakantsharma/leetcode_problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prakantsharma/leetcode_problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/prakantsharma/leetcode_problems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/prakantsharma/leetcode_problems/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/prakantsharma/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/prakantsharma/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0918-maximum-sum-circular-subarray](https://github.com/prakantsharma/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/prakantsharma/leetcode_problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -936,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/prakantsharma/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 ## Game Theory
 |  |
 | ------- |
