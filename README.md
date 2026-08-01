@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0334-increasing-triplet-subsequence](https://github.com/prakantsharma/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prakantsharma/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/prakantsharma/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/prakantsharma/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/prakantsharma/leetcode_problems/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prakantsharma/leetcode_problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/prakantsharma/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/prakantsharma/leetcode_problems/tree/master/0089-gray-code) |
+| [0486-predict-the-winner](https://github.com/prakantsharma/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prakantsharma/leetcode_problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/prakantsharma/leetcode_problems/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/prakantsharma/leetcode_problems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/prakantsharma/leetcode_problems/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0486-predict-the-winner](https://github.com/prakantsharma/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0918-maximum-sum-circular-subarray](https://github.com/prakantsharma/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/prakantsharma/leetcode_problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/prakantsharma/leetcode_problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -871,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/prakantsharma/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/prakantsharma/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/prakantsharma/leetcode_problems/tree/master/0060-permutation-sequence) |
+| [0486-predict-the-winner](https://github.com/prakantsharma/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prakantsharma/leetcode_problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Union-Find
 |  |
@@ -932,4 +936,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/prakantsharma/leetcode_problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
