@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/prakantsharma/leetcode_problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/prakantsharma/leetcode_problems/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/prakantsharma/leetcode_problems/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/prakantsharma/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0944-delete-columns-to-make-sorted](https://github.com/prakantsharma/leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/prakantsharma/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prakantsharma/leetcode_problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/prakantsharma/leetcode_problems/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/prakantsharma/leetcode_problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prakantsharma/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/prakantsharma/leetcode_problems/tree/master/1390-four-divisors) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/prakantsharma/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/prakantsharma/leetcode_problems/tree/master/0097-interleaving-string) |
 | [0486-predict-the-winner](https://github.com/prakantsharma/leetcode_problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/prakantsharma/leetcode_problems/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/prakantsharma/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/prakantsharma/leetcode_problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/prakantsharma/leetcode_problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -951,4 +954,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/prakantsharma/leetcode_problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/prakantsharma/leetcode_problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
