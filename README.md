@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prakantsharma/leetcode_problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/prakantsharma/leetcode_problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/prakantsharma/leetcode_problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/prakantsharma/leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/prakantsharma/leetcode_problems/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/prakantsharma/leetcode_problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/prakantsharma/leetcode_problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3548-equal-sum-grid-partition-ii) |
