@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prakantsharma/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/prakantsharma/leetcode_problems/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/prakantsharma/leetcode_problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/prakantsharma/leetcode_problems/tree/master/1510-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/prakantsharma/leetcode_problems/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/prakantsharma/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/prakantsharma/leetcode_problems/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/prakantsharma/leetcode_problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1406-stone-game-iii](https://github.com/prakantsharma/leetcode_problems/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/prakantsharma/leetcode_problems/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1510-stone-game-iv](https://github.com/prakantsharma/leetcode_problems/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prakantsharma/leetcode_problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prakantsharma/leetcode_problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -981,14 +983,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/prakantsharma/leetcode_problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/prakantsharma/leetcode_problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/prakantsharma/leetcode_problems/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/prakantsharma/leetcode_problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/prakantsharma/leetcode_problems/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/prakantsharma/leetcode_problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/prakantsharma/leetcode_problems/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/prakantsharma/leetcode_problems/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/prakantsharma/leetcode_problems/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
