@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/prakantsharma/leetcode_problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/prakantsharma/leetcode_problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prakantsharma/leetcode_problems/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prakantsharma/leetcode_problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/prakantsharma/leetcode_problems/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/prakantsharma/leetcode_problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/3225-maximum-score-from-grid-operations) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/prakantsharma/leetcode_problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prakantsharma/leetcode_problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prakantsharma/leetcode_problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/prakantsharma/leetcode_problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/prakantsharma/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/prakantsharma/leetcode_problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prakantsharma/leetcode_problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/prakantsharma/leetcode_problems/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/prakantsharma/leetcode_problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3453-separate-squares-i) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/prakantsharma/leetcode_problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/prakantsharma/leetcode_problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prakantsharma/leetcode_problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/prakantsharma/leetcode_problems/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -688,12 +692,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/prakantsharma/leetcode_problems/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prakantsharma/leetcode_problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prakantsharma/leetcode_problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/prakantsharma/leetcode_problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prakantsharma/leetcode_problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/prakantsharma/leetcode_problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
