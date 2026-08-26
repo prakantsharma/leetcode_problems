@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/prakantsharma/leetcode_problems/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/prakantsharma/leetcode_problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prakantsharma/leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prakantsharma/leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prakantsharma/leetcode_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/prakantsharma/leetcode_problems/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prakantsharma/leetcode_problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/prakantsharma/leetcode_problems/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prakantsharma/leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prakantsharma/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prakantsharma/leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
