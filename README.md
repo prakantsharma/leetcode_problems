@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prakantsharma/leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prakantsharma/leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3721-longest-balanced-subarray-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/prakantsharma/leetcode_problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/prakantsharma/leetcode_problems/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3714-longest-balanced-substring-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prakantsharma/leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/prakantsharma/leetcode_problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/prakantsharma/leetcode_problems/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prakantsharma/leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/prakantsharma/leetcode_problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/prakantsharma/leetcode_problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prakantsharma/leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -652,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prakantsharma/leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Tree
 |  |
 | ------- |
