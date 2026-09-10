@@ -645,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/prakantsharma/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prakantsharma/leetcode_problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prakantsharma/leetcode_problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/prakantsharma/leetcode_problems/tree/master/3310-remove-methods-from-project) |
 | [3863-power-grid-maintenance](https://github.com/prakantsharma/leetcode_problems/tree/master/3863-power-grid-maintenance) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prakantsharma/leetcode_problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Design
 |  |
 | ------- |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prakantsharma/leetcode_problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sliding Window
 |  |
 | ------- |
