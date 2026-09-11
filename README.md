@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/prakantsharma/leetcode_problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prakantsharma/leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/prakantsharma/leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prakantsharma/leetcode_problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/prakantsharma/leetcode_problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prakantsharma/leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/prakantsharma/leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prakantsharma/leetcode_problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/prakantsharma/leetcode_problems/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/prakantsharma/leetcode_problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/prakantsharma/leetcode_problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/prakantsharma/leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -1005,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/prakantsharma/leetcode_problems/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/prakantsharma/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prakantsharma/leetcode_problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/prakantsharma/leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Union-Find
 |  |
 | ------- |
