@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/prakantsharma/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/prakantsharma/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prakantsharma/leetcode_problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/prakantsharma/leetcode_problems/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/prakantsharma/leetcode_problems/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/prakantsharma/leetcode_problems/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -958,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/prakantsharma/leetcode_problems/tree/master/0836-rectangle-overlap) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/prakantsharma/leetcode_problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3623-count-number-of-trapezoids-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Brainteaser
