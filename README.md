@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/prakantsharma/leetcode_problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prakantsharma/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prakantsharma/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/prakantsharma/leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/prakantsharma/leetcode_problems/tree/master/1563-stone-game-v) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/prakantsharma/leetcode_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prakantsharma/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/prakantsharma/leetcode_problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/prakantsharma/leetcode_problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prakantsharma/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/prakantsharma/leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/prakantsharma/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/prakantsharma/leetcode_problems/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/prakantsharma/leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prakantsharma/leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1871-jump-game-vii](https://github.com/prakantsharma/leetcode_problems/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prakantsharma/leetcode_problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/prakantsharma/leetcode_problems/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -826,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/prakantsharma/leetcode_problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1406-stone-game-iii](https://github.com/prakantsharma/leetcode_problems/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/prakantsharma/leetcode_problems/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/prakantsharma/leetcode_problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/prakantsharma/leetcode_problems/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
