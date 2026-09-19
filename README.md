@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prakantsharma/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/prakantsharma/leetcode_problems/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/prakantsharma/leetcode_problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/prakantsharma/leetcode_problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/prakantsharma/leetcode_problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/prakantsharma/leetcode_problems/tree/master/1563-stone-game-v) |
@@ -982,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/prakantsharma/leetcode_problems/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/prakantsharma/leetcode_problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/prakantsharma/leetcode_problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3623-count-number-of-trapezoids-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Brainteaser
