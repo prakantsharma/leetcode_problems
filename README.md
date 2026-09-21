@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prakantsharma/leetcode_problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3524-find-x-value-of-array-i) |
 | [3531-count-covered-buildings](https://github.com/prakantsharma/leetcode_problems/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/prakantsharma/leetcode_problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/prakantsharma/leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prakantsharma/leetcode_problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/prakantsharma/leetcode_problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prakantsharma/leetcode_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/prakantsharma/leetcode_problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3524-find-x-value-of-array-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/prakantsharma/leetcode_problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/prakantsharma/leetcode_problems/tree/master/3620-network-recovery-pathways) |
