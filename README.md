@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/prakantsharma/leetcode_problems/tree/master/2169-simple-bank-system) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/prakantsharma/leetcode_problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/prakantsharma/leetcode_problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/prakantsharma/leetcode_problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prakantsharma/leetcode_problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/prakantsharma/leetcode_problems/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -872,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prakantsharma/leetcode_problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prakantsharma/leetcode_problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/prakantsharma/leetcode_problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/prakantsharma/leetcode_problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prakantsharma/leetcode_problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prakantsharma/leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/prakantsharma/leetcode_problems/tree/master/2573-find-the-string-with-lcp) |
@@ -988,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/prakantsharma/leetcode_problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/prakantsharma/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/prakantsharma/leetcode_problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prakantsharma/leetcode_problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2573-find-the-string-with-lcp](https://github.com/prakantsharma/leetcode_problems/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/prakantsharma/leetcode_problems/tree/master/2625-increment-submatrices-by-one) |
@@ -1171,4 +1174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prakantsharma/leetcode_problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/prakantsharma/leetcode_problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
