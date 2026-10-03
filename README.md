@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/prakantsharma/leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prakantsharma/leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prakantsharma/leetcode_problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0126-word-ladder-ii) |
 | [0141-linked-list-cycle](https://github.com/prakantsharma/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prakantsharma/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0205-isomorphic-strings) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/prakantsharma/leetcode_problems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/prakantsharma/leetcode_problems/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/prakantsharma/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0126-word-ladder-ii) |
 | [0205-isomorphic-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/prakantsharma/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/prakantsharma/leetcode_problems/tree/master/0409-longest-palindrome) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/0100-same-tree) |
+| [0126-word-ladder-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0126-word-ladder-ii) |
 | [0547-number-of-provinces](https://github.com/prakantsharma/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prakantsharma/leetcode_problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -821,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/prakantsharma/leetcode_problems/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0126-word-ladder-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0126-word-ladder-ii) |
 | [0401-binary-watch](https://github.com/prakantsharma/leetcode_problems/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prakantsharma/leetcode_problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/prakantsharma/leetcode_problems/tree/master/1980-find-unique-binary-string) |
@@ -1184,4 +1188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prakantsharma/leetcode_problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/prakantsharma/leetcode_problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
