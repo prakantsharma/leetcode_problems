@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/prakantsharma/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0126-word-ladder-ii) |
 | [0205-isomorphic-strings](https://github.com/prakantsharma/leetcode_problems/tree/master/0205-isomorphic-strings) |
+| [0301-remove-invalid-parentheses](https://github.com/prakantsharma/leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/prakantsharma/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/prakantsharma/leetcode_problems/tree/master/0409-longest-palindrome) |
 | [0541-reverse-string-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0541-reverse-string-ii) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/0100-same-tree) |
 | [0126-word-ladder-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0126-word-ladder-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/prakantsharma/leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/prakantsharma/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prakantsharma/leetcode_problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakantsharma/leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/prakantsharma/leetcode_problems/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/0126-word-ladder-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/prakantsharma/leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/prakantsharma/leetcode_problems/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prakantsharma/leetcode_problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/prakantsharma/leetcode_problems/tree/master/1980-find-unique-binary-string) |
