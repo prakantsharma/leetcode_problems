@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/prakantsharma/leetcode_problems/tree/master/2727-number-of-senior-citizens) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/prakantsharma/leetcode_problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/prakantsharma/leetcode_problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/prakantsharma/leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/prakantsharma/leetcode_problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/prakantsharma/leetcode_problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prakantsharma/leetcode_problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/prakantsharma/leetcode_problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1925-count-square-sum-triples](https://github.com/prakantsharma/leetcode_problems/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/prakantsharma/leetcode_problems/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/prakantsharma/leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/prakantsharma/leetcode_problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prakantsharma/leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
