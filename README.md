@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/prakantsharma/leetcode_problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/prakantsharma/leetcode_problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/prakantsharma/leetcode_problems/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/prakantsharma/leetcode_problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prakantsharma/leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prakantsharma/leetcode_problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/prakantsharma/leetcode_problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prakantsharma/leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/prakantsharma/leetcode_problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prakantsharma/leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Depth-First Search
 |  |
